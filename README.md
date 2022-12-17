@@ -1,5 +1,7 @@
 # AI-Virtual-Painter
 
+Developed an application that allows us to virtually paint in the air using their fingers. Developed in python using Opencv ,MediaPipe and Numpy
+
 ## Dependencies  -
 > Please install all the required dependencies.
 * openCV
