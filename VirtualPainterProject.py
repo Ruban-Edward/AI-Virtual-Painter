@@ -6,7 +6,7 @@ import HandTrackingModule as htm
 brushThickness = 12
 eraserThickness = 50
 
-folderPath = "C:/Users/ruban/Pictures/proj/Virtual Painter/Header-Files"
+folderPath = "Header File image Path"
 myList = os.listdir(folderPath)
 print(myList)
 overlayList = []
