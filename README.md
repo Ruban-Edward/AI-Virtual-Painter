@@ -62,7 +62,7 @@ Run the ```VirtualPainterProject.py``` python file.
 
 ## Author 
 
--[@ruban-edward](https://github.com/Ruban-Edward/AI-Virtual-Painter)
+-[@ruban-edward](https://github.com/Ruban-Edward)
 
 ## License
 
